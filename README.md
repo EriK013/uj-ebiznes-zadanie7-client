@@ -1,0 +1,4 @@
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=EriK013_uj-ebiznes-zadanie7-client&metric=bugs)](https://sonarcloud.io/summary/new_code?id=EriK013_uj-ebiznes-zadanie7-client)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=EriK013_uj-ebiznes-zadanie7-client&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=EriK013_uj-ebiznes-zadanie7-client)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=EriK013_uj-ebiznes-zadanie7-client&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=EriK013_uj-ebiznes-zadanie7-client)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=EriK013_uj-ebiznes-zadanie7-client&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=EriK013_uj-ebiznes-zadanie7-client)
